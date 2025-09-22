@@ -1,2 +1,2 @@
 # devops
-nfrastructure, CI/CD, reproducibility, and dataset handling for org projects.
+Infrastructure, CI/CD, reproducibility, and dataset handling for org projects.
